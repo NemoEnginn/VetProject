@@ -56,7 +56,7 @@ public class MedHistory {
 	}
 	
 	//Other Methods
-	public void editMeHistory() {
+	public void editMedHistory() {	//Edits the medical history properties.
 		//to be written
 	}
 
